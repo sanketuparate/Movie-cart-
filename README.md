@@ -1,3 +1,9 @@
+![Screenshot 2023-12-03 155526](https://github.com/sanketuparate/Movie-cart-/assets/81017631/62b7c201-7dec-4acb-9e3e-f6761bb56fab)
+
+
+![Screenshot 2023-12-03 155632](https://github.com/sanketuparate/Movie-cart-/assets/81017631/cbb27c2c-6b36-40e8-b13c-0061a3da7108)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
